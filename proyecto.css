@@ -179,8 +179,7 @@ footer{
     background-color: rgb(42, 32, 126);
     color: #f7851b;
   }
-  .conteinercontact{
-    text-align: center;
-    color: #f7851b;
-    background-color:  rgb(42, 32, 126);
-  }
+.conteinercontact{
+ text-align: center;
+ color: #f7851b;
+}

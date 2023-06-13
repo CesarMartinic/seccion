@@ -184,7 +184,8 @@ footer{
  color: #f7851b;
 }
 .columncontact{
-  text-align: left;
+  text-align: center;
   color: #f7851b;
   background-color: rgb(42, 32, 126);
+  justify-content: center;
 }

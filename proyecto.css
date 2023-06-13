@@ -136,11 +136,12 @@ footer {
 .conteiner-about{
   margin-left: 30px;
   text-align: center;
-  background-color:rgb(64, 73, 75) ;
+  color: #f7851b ;
 }
 
 .columnabout{
   text-align: center;
+  color: #f7851b
   
 }
 nav a:hover {
@@ -171,4 +172,9 @@ footer{
     color: #f7851b;
     text-align: center;
 
+  }
+  .greetings{
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgb(42, 32, 126);
   }
